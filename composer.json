@@ -1,13 +1,13 @@
 {
-    "name": "mypayment/my-payment-gateway",
+    "name": "myTestPayment/TestPayment",
     "type": "cakephp-plugin",
     "description": "Payment using paytm",
     "keywords": ["cakephp", "package"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Testing",
-            "email": "support@test.com"
+            "name": "Paytm",
+            "email": "support@paytm.com"
         }
     ],
     "require": {
