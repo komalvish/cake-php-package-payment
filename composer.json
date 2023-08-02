@@ -1,5 +1,5 @@
 {
-    "name": "myTestPayment/TestPayment",
+    "name": "mytestpayment/testpayment",
     "type": "cakephp-plugin",
     "description": "Payment using paytm",
     "keywords": ["cakephp", "package"],
